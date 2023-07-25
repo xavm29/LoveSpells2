@@ -3,13 +3,11 @@ package com.white.magic.couples.lovespells;
 import android.app.Application;
 import android.content.Intent;
 import android.os.Handler;
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
 import com.growthyourapp.sdk.GYASDK;
 import com.growthyourapp.sdk.IResponseResult;
-
-import java.util.concurrent.RunnableFuture;
 
 public class splash extends AppCompatActivity {
 
